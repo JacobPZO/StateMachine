@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ninja\\StateMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Sprinting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\Sprinting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\MovementSM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovementSM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\Moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Jumping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\Jumping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Airdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\Airdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Diving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\Diving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Standing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\Standing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\StateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\BaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\PlayerStateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerStateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ninja\\StateMachine\\Assets\\States\\BikeTurnState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\States\\BikeTurnState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sprinting.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Sprinting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Sprinting.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Sprinting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Sprinting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:32:48.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Airdash.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Airdash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Airdash.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Airdash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Airdash.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:26:17.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Diving.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Diving.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Diving.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Diving.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Diving.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:25:44.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jumping.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Jumping.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Jumping.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Jumping.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Jumping.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:09:31.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moving.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Moving.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Moving.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Moving.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Moving.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:49:11.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Standing.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Standing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Standing.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\States\\Standing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Standing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:39:11.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovementSM.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\MovementSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementSM.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\MovementSM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementSM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:37:39.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:25:57.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseState.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\BaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseState.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\BaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:25:21.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\Scripts\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStateMachine.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:10:25.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BikeTurnState.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\StateMachine\\Assets\\States\\BikeTurnState.cs",
+              "RelativeDocumentMoniker": "Assets\\States\\BikeTurnState.cs",
+              "ToolTip": "C:\\Users\\Ninja\\StateMachine\\Assets\\States\\BikeTurnState.cs",
+              "RelativeToolTip": "Assets\\States\\BikeTurnState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T23:56:06.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
